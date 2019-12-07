@@ -39,11 +39,11 @@ A complete log of my web development skills, learning, resources, highlights, in
 |**Sass**                          |                   |               |               |                  |                |                 |
 |**SQL & NoSQL**                   |                   |               |               |                  |                |                 |
 |**Cloud Concepts**                |                   |               |               |                  |                |                 |
-|**Project & Process Management**  | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |                 |
-|**Sharepoint & Confluence**       | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |                 |
-|**JIRA**                          | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |                 |
-|**CRM & Salesforce**              | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |                 |
-|**Microsoft Office & Visio**      | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |                 |
+|**Project & Process Management**  | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  | ![done][done]   |
+|**Sharepoint & Confluence**       | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  | ![done][done]   |
+|**JIRA**                          | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  | ![done][done]   |
+|**CRM & Salesforce**              | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  | ![done][done]   |
+|**Microsoft Office & Visio**      | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  | ![done][done]   |
 
 ----
 
@@ -58,16 +58,17 @@ A complete log of my web development skills, learning, resources, highlights, in
 
 |            Status           |   Year     | Course                                                          |                Tutor                        |
 |:---------------------------:|:-----------|:----------------------------------------------------------------|:-------------------------------------------:|
-| ![In Progress][In Progress] |            | Reading [You Don't know JavaScript]                             | [Kyle Simpson]                              |
-| ![Completed][Completed]     | Oct 2019   | [You Don't Know JavaScript]: Types & Grammar                    | [Kyle Simpson]                              |
-| ![Completed][Completed]     | Sept 2019  | [You Don't Know JavaScript]: Objects & Classes                  | [Kyle Simpson]                              |
-| ![Completed][Completed]     | Jul 2019   | [You Don't Know JavaScript]: Scope & Closure                    | [Kyle Simpson]                              |
-| ![Completed][Completed]     | May 2019   | [Eloquent JavaScript]                                           | [Marijn Haverbeke]                          |
-| ![Completed][Completed]     | Feb 2019   | [The Complete JavaScript Handbook]                              | [Flavio Copes]                              |
-| ![Completed][Completed]     | Jan 2019   | [JavaScript clean code guide]                                   | [Ryan McDermott]                            |
-| ![Completed][Completed]     | Aug 2018   | [Front-End Web Developer Nanodegree]                            | [Udacity] - Google Scholarship              |
-| ![Completed][Completed]     | Feb 2018   | [The Beginner's Guide to Reactjs]                               | [Kent C Dodds] - [egghead.io]               |
-| ![Completed][Completed]     | Jan 2018   | [Google Developer Challenge Scholarship] - Web Developer        | [Udacity]                                   |
+| ![Completed][Completed]     | Nov 2019   | [Learn Ruby]                                                    | [codecademy]                                |
+| ![Completed][Completed]     | Dec 2019   | [Understanding Web Development: A Beginners Guide to the Web]   | [Chris Dodd-Skillshare]                      |
+| ![Completed][Completed]     | Dec 2019   | [Web Development Fundamentals: HTML & CSS]                      | [Chris Dodd-Skillshare]                      |
+| ![Completed][Completed]     | Dec 2019   | [Web Development Fundamentals: Javascript]                      | [Chris Dodd-Skillshare]                      |
+| ![Completed][Completed]     | Dec 2019   | [Responsive Web Design Certification]                           | [freeCodeCamp]                              |
+| ![In Progress][In Progress] | Dec 2019   | [JavaScript Algorithms and Data Structures Certification]       | [freeCodeCamp]                              |
+| ![In Progress][In Progress] | TBD 2019   | [Front End Libraries Certification]                             | [freeCodeCamp]                              |
+| ![In Progress][In Progress] | TBD 2019   | [Data Visualization Certification]                              | [freeCodeCamp] 
+                 |
+| ![In Progress][In Progress] | TBD 2019   | [APIs and Microservices Certification]                          | [freeCodeCamp]                              |
+| ![In Progress][In Progress] | TBD 2019   | [Information Security and Quality Assurance Certification]      | [freeCodeCamp]                              |
 | ![Completed][Completed]     | 2017       | [Workflow Tools for Web Developers]                             | [Christina Truong] - [Lynda.com]            |
 | ![Completed][Completed]     | 2017       | [Learning Git and GitHub]                                       | [Ray Villalobos] - [Lynda.com]              |
 | ![Completed][Completed]     | 2017       | [CSS Essential Training 3]                                      | [Christina Truong] - [Lynda.com]            |
