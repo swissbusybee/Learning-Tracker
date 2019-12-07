@@ -59,18 +59,17 @@ A complete log of my web development skills, learning, resources, highlights, in
 |            Status           |   Year     | Course                                                          |                Tutor                        |
 |:---------------------------:|:-----------|:----------------------------------------------------------------|:-------------------------------------------:|
 | ![Completed][Completed]     | Nov 2019   | [Learn Ruby]                                                    | [codecademy]                                |
-| ![Completed][Completed]     | Dec 2019   | [Understanding Web Development: A Beginners Guide to the Web]   | [Chris Dodd-Skillshare]                      |
-| ![Completed][Completed]     | Dec 2019   | [Web Development Fundamentals: HTML & CSS]                      | [Chris Dodd-Skillshare]                      |
-| ![Completed][Completed]     | Dec 2019   | [Web Development Fundamentals: Javascript]                      | [Chris Dodd-Skillshare]                      |
+| ![Completed][Completed]     | Dec 2019   | [Understanding Web Development: A Beginners Guide to the Web]   | [Chris Dodd] - [Skillshare]                  |
+| ![Completed][Completed]     | Dec 2019   | [Web Development Fundamentals: HTML & CSS]                      | [Chris Dodd] - [Skillshare]                  |
+| ![Completed][Completed]     | Dec 2019   | [Web Development Fundamentals: Javascript]                      | [Chris Dodd] - [Skillshare]                  |
 | ![Completed][Completed]     | Dec 2019   | [Responsive Web Design Certification]                           | [freeCodeCamp]                              |
 | ![In Progress][In Progress] | Dec 2019   | [JavaScript Algorithms and Data Structures Certification]       | [freeCodeCamp]                              |
 | ![In Progress][In Progress] | TBD 2019   | [Front End Libraries Certification]                             | [freeCodeCamp]                              |
-| ![In Progress][In Progress] | TBD 2019   | [Front End Libraries Certification]                             | [freeCodeCamp]                              |             
+| ![In Progress][In Progress] | TBD 2019   | [Data Visualization Certification]                              | [freeCodeCamp]                              |             
 | ![In Progress][In Progress] | TBD 2019   | [APIs and Microservices Certification]                          | [freeCodeCamp]                              |
 | ![In Progress][In Progress] | TBD 2019   | [Information Security and Quality Assurance Certification]      | [freeCodeCamp]                              |
-| ![Completed][Completed]     | 2017       | [Workflow Tools for Web Developers]                             | [Christina Truong] - [Lynda.com]            |
-| ![Completed][Completed]     | 2017       | [Learning Git and GitHub]                                       | [Ray Villalobos] - [Lynda.com]              |
-| ![Completed][Completed]     | 2017       | [CSS Essential Training 3]                                      | [Christina Truong] - [Lynda.com]            |
+| ![Soon][Soon]               | Dec 2019   | [Git and GitHub Version Control - The Complete Startup Guide]   | [Abhilash Nelson] - [Skillshare]     |
+| ![Soon][Soon]               | Dec 2019   | [WordPress Academy: Learn WordPress step by step]               | [Chris Dixon] - [Skillshare]     |
 | ![Completed][Completed]     | 2017       | [CSS Essential Training 2]                                      | [Christina Truong] - [Lynda.com]            |
 | ![Completed][Completed]     | 2017       | [Getting Your Website Online]                                   | [Christina Truong] - [Lynda.com]            |
 | ![Completed][Completed]     | 2017       | [Learn Enough Command Line to Be Dangerous]                     | [Michael Hartl]                             |
@@ -83,10 +82,10 @@ A complete log of my web development skills, learning, resources, highlights, in
 
 [//]: # (Reference links to courses)
 
-[The Complete JavaScript Handbook]: https://medium.freecodecamp.org/the-complete-javascript-handbook-f26b2c71719c
-[JavaScript clean code guide]: https://github.com/ryanmcdermott/clean-code-javascript
-[Front-End Web Developer Nanodegree]: https://eu.udacity.com/course/front-end-web-developer-nanodegree--nd001
-[JavaScript and React for Developers]: https://www.udemy.com/js-and-react-for-devs/
+[Learn Ruby]: https://www.codecademy.com/catalog/language/ruby
+[freeCodeCamp Certifications]: https://www.freecodecamp.org/learn
+[Git and GitHub Version Control - The Complete Startup Guide]: https://www.skillshare.com/classes/Git-and-GitHub-Version-Control-The-Complete-Startup-Guide/1196394219?via=search-layout-grid
+[WordPress Academy: Learn WordPress step by step]: https://www.skillshare.com/search?query=WordPress&enrollmentType=premium
 [You Don't know JavaScript]: https://github.com/getify/You-Dont-Know-JS
 [Workflow Tools for Web Developers]: https://www.lynda.com/Web-Design-tutorials/Workflow-Tools-Web-Development/533305-2.html
 [Learning Git and GitHub]: https://www.lynda.com/Git-tutorials/Up-Running-Git-GitHub/409275-2.html
