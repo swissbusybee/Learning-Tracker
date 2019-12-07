@@ -70,39 +70,27 @@ A complete log of my web development skills, learning, resources, highlights, in
 | ![In Progress][In Progress] | TBD 2019   | [Information Security and Quality Assurance Certification]      | [freeCodeCamp]                              |
 | ![Soon][Soon]               | Dec 2019   | [Git and GitHub Version Control - The Complete Startup Guide]   | [Abhilash Nelson] - [Skillshare]     |
 | ![Soon][Soon]               | Dec 2019   | [WordPress Academy: Learn WordPress step by step]               | [Chris Dixon] - [Skillshare]     |
-| ![Completed][Completed]     | 2017       | [CSS Essential Training 2]                                      | [Christina Truong] - [Lynda.com]            |
-| ![Completed][Completed]     | 2017       | [Getting Your Website Online]                                   | [Christina Truong] - [Lynda.com]            |
-| ![Completed][Completed]     | 2017       | [Learn Enough Command Line to Be Dangerous]                     | [Michael Hartl]                             |
-| ![Completed][Completed]     | 2017       | [Basic Front End Development Projects]                          | [Free Code Camp]                            |
-| ![Completed][Completed]     | 2017       | [The Web Developer Bootcamp - Frond End]                        | Colt Steele - [Udemy]                       |
-| ![In Progress][In Progress] |            | [JavaScript and React for Developers]                           | [Cassidy Williams] - [Udemy]                |
-| ![In Progress][In Progress] |            | [Front End Development]                                         | [Free Code Camp]                            |
-| ![In Progress][In Progress] |            | [JavaScript30]                                                  | [Wes Bos]                                   |
-| ![Soon][Soon]               |            | Read JavaScript: The Good Parts                                 | Douglas Crockford                           |
+| ![Soon][Soon]               | Jan 2020   | [Introduction to Hyperledger Blockchain Technologies]           | [edx]                                        |
+| ![Soon][Soon]               | Jan 2020   | [Python]                                                        | [TBD] - [TBD]                                |
+| ![Soon][Soon]               | 2020       | [Ruby]                                                          | [TBD]                                        |
+| ![Soon][Soon]               | 2020       | [Other]                                                         | [TBD]                            |    
 
 [//]: # (Reference links to courses)
 
 [Learn Ruby]: https://www.codecademy.com/catalog/language/ruby
-[freeCodeCamp Certifications]: https://www.freecodecamp.org/learn
+[Understanding Web Development: A Beginners Guide to the Web]: https://www.skillshare.com/profile/Christopher-Dodd/3311891
+[Web Development Fundamentals: HTML & CSS]: https://www.skillshare.com/profile/Christopher-Dodd/3311891
+[Web Development Fundamentals: Javascript]: https://www.skillshare.com/profile/Christopher-Dodd/3311891
+[Responsive Web Design Certification]: https://www.freecodecamp.org/learn
+[JavaScript Algorithms and Data Structures Certification]: https://www.freecodecamp.org/learn
+[Front End Libraries Certification]: https://www.freecodecamp.org/learn
+[Data Visualization Certification]: https://www.freecodecamp.org/learn
+[APIs and Microservices Certification]: https://www.freecodecamp.org/learn
+[Information Security and Quality Assurance Certification]: https://www.freecodecamp.org/learn
 [Git and GitHub Version Control - The Complete Startup Guide]: https://www.skillshare.com/classes/Git-and-GitHub-Version-Control-The-Complete-Startup-Guide/1196394219?via=search-layout-grid
 [WordPress Academy: Learn WordPress step by step]: https://www.skillshare.com/search?query=WordPress&enrollmentType=premium
-[You Don't know JavaScript]: https://github.com/getify/You-Dont-Know-JS
-[Workflow Tools for Web Developers]: https://www.lynda.com/Web-Design-tutorials/Workflow-Tools-Web-Development/533305-2.html
-[Learning Git and GitHub]: https://www.lynda.com/Git-tutorials/Up-Running-Git-GitHub/409275-2.html
-[CSS Essential Training 3]: https://www.lynda.com/CSS-tutorials/CSS-Essential-Training-3/609030-2.html
-[CSS Essential Training 2]: https://www.lynda.com/CSS-tutorials/CSS-Essential-Training-2/569189-2.html
-[Getting Your Website Online]: https://www.lynda.com/Web-Development-tutorials/Getting-Your-Website-Online/609031-2.html
-[Learn Enough Command Line to Be Dangerous]: https://www.learnenough.com/command-line-tutorial
-[Basic Front End Development Projects]: https://www.freecodecamp.org/syknapse
-[The Web Developer Bootcamp - Frond End]: https://www.udemy.com/the-web-developer-bootcamp
-[The Web Developer Bootcamp - Back End]: https://www.udemy.com/the-web-developer-bootcamp
-[Front End Development]: https://www.freecodecamp.org/syknapse
-[Google Developer Challenge Scholarship]: https://www.udacity.com/google-scholarships
-[JavaScript30]: https://javascript30.com/
-[JavaScript & jQuery]: http://javascriptbook.com/
-[Eloquent JavaScript]: http://eloquentjavascript.net/
-[Learn CSS Grid]: https://scrimba.com/g/gR8PTE
-[The Beginner's Guide to Reactjs]: https://egghead.io/courses/the-beginner-s-guide-to-reactjs
+[Introduction to Hyperledger Blockchain Technologies]: https://www.edx.org/course/introduction-to-hyperledger-blockchain-technologie?utm_source=sailthru&utm_medium=email&utm_campaign=triggered_shareit
+
 
 [//]: # (Reference links to tutors)
 
@@ -114,7 +102,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 [Lynda.com]: https://www.lynda.com
 [Ray Villalobos]: https://twitter.com/planetoftheweb
 [Michael Hartl]: https://twitter.com/mhartl
-[Free Code Camp]: https://www.freecodecamp.org
+[FreeCodeCamp]: https://www.freecodecamp.org
 [Udemy]: https://www.udemy.com
 [Udacity]: https://www.udacity.com
 [Wes Bos]: https://twitter.com/wesbos
@@ -178,26 +166,26 @@ I'm currently interested in/excited about:
 This is a list of basic objectives to meet on the road to mastering web development.
 
 * [ ] Open the computer’s terminal
-* [ ] Use a text editor (bonus points if you have a specific reason for choosing it)
+* [x] Use a text editor (bonus points if you have a specific reason for choosing it)
 * [ ] Use some keyboard shortcuts
-* [x] Write tests for your code
-* [x] Help another web developer with something they’re having trouble with
+* [ ] Write tests for your code
+* [ ] Help another web developer with something they’re having trouble with
 * [x] Attend an event about web development
-* [x] Follow developers you admire on social media
+* [ ] Follow developers you admire on social media
 * [x] Read a book about coding
 * [x] Open your browser console
 * [x] Get data from an API
 * [ ] Hide API keys from the public
-* [x] Post a question on Stack Overflow
-* [x] Push code to GitHub or GitLab or BitBucket
+* [ ] Post a question on Stack Overflow
+* [ ] Push code to GitHub or GitLab or BitBucket
 * [ ] Speak about something web development-related at an event
-* [x] Complete a technical interview
+* [ ] Complete a technical interview
 * [x] Participate in a hackathon
 * [x] Deploy a project
 * [ ] Ship your project to a store
 * [ ] Contribute to open source
-* [x] Get paid to code
-* [x] When people ask what you do, respond saying you’re a developer :)
+* [ ] Get paid to code
+* [ ] When people ask what you do, respond saying you’re a developer :)
 
 ----
 
@@ -209,7 +197,7 @@ If you find this useful for your own needs you are welcome to fork a copy, custo
 
 ### Acknowledgments
 
-This has been partly inspired by [Shovan Chatterjee](https://twitter.com/shovan_ch) and his wonderful [Full Stack Web Developer Path](https://github.com/shovanch/fullstack-web-developer-path) project. And of course by [Alexander Kallaway's](https://twitter.com/ka11away) very motivational [#100DaysOfCode challenge](https://github.com/Kallaway/100-days-of-code) and the great and supportive community around it.
+This has been forked from and inspired by [Syk Houdeib](https://twitter.com/Syknapse "@Syknapse") and his wonderful [Learning Tracker](https://github.com/Syknapse/My-Learning-Tracker-first-ten-months) project. And of course by [Alexander Kallaway's](https://twitter.com/ka11away) very motivational [#100DaysOfCode challenge](https://github.com/Kallaway/100-days-of-code) and the great and supportive community around it.
 
 ### License
 
