@@ -13,27 +13,34 @@ A complete log of my web development skills, learning, resources, highlights, in
 |               Skill              | 1<br>Introduction | 2<br>Basics   | 3<br>Good     | 4<br>Pretty Good | 5<br>Confident | 6<br>Awesome    |
 |:-------------------------------- |:-----------------:|:-------------:|:-------------:|:----------------:|:--------------:|:---------------:|
 |**HTML5**                         | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
-|**CSS3**                          | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
-|**JavaScript**                    | ![done][done]     | ![done][done] |               |                  |                |                 |
-|**React**                         | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**Ruby**                          | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
-|**Working with APIs**             | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
+|**CSS3**                          | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |     
+    |
 |**CSS Grid & Flex-box**           | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
+|**Bootstrap**                     | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
+|**JavaScript**                    | ![done][done]     | ![done][done] |               |                  |                |                 |
 |**jQuery**                        | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |                 |
-|**Ruby on Rails**                 | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |                 |
+|**React**                         | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**Responsive design**             | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
-|**Mobile first**                  | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
 |**Website Build & Publish**       | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
 |**Search Engine Optimization**    | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**Bootstrap**                     | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
+|**Wordpress & PHP                 |                   |               |               |                  |                |                 |
 |**Debugging**                     | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**NPM**                           | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
+|**Working with APIs**             | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
+|**Node & NPM**                    | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
+|**Ruby**                          | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
+|**Ruby on Rails**                 | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |                 |
+|**Firebase**                      | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
 |**AWS**                           |                   |               |               |                  |                |                 |
-|**PHP**                           |                   |               |               |                  |                |                 |
+|**Apache Hadoop**                 |                   |               |               |                  |                |                 |
 |**Python**                        |                   |               |               |                  |                |                 |
 |**Blockchain**                    |                   |               |               |                  |                |                 |
 |**Crypto Currencies**             |                   |               |               |                  |                |          .     |
-|**GitHub**                        |                   |               |               |                  |                |                 |
+|**Git & GitHub**                  |                   |               |               |                  |                |                 |
+|**Project & Process Management**  |                   |               |               |                  |                |                 |
+|**Sharepoint & Confluence**       |                   |               |               |                  |                |                 |
+|**JIRA**                          |                   |               |               |                  |                |                 |
+|**CRM & Salesforce**              |                   |               |               |                  |                |                 |
+|**Microsoft Office & Visio**      |                   |               |               |                  |                |                 |
 ----
 
 ## Learning
