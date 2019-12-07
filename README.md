@@ -65,8 +65,10 @@ A complete log of my web development skills, learning, resources, highlights, in
 | ![Completed][Completed]     | Dec 2019   | [Responsive Web Design Certification]                           | [freeCodeCamp]                              |
 | ![In Progress][In Progress] | Dec 2019   | [JavaScript Algorithms and Data Structures Certification]       | [freeCodeCamp]                              |
 | ![In Progress][In Progress] | TBD 2019   | [Front End Libraries Certification]                             | [freeCodeCamp]                              |
-| ![In Progress][In Progress] | TBD 2019   | [Data Visualization Certification]                              | [freeCodeCamp] 
-                 |
+| ![In Progress][In Progress] | TBD 2019   | [Data Visualization Certification]                              | [freeCodeCamp]
+
+| ![In Progress][In Progress] | TBD 2019   | [Front End Libraries Certification]                             | [freeCodeCamp]                              |
+                
 | ![In Progress][In Progress] | TBD 2019   | [APIs and Microservices Certification]                          | [freeCodeCamp]                              |
 | ![In Progress][In Progress] | TBD 2019   | [Information Security and Quality Assurance Certification]      | [freeCodeCamp]                              |
 | ![Completed][Completed]     | 2017       | [Workflow Tools for Web Developers]                             | [Christina Truong] - [Lynda.com]            |
