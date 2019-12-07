@@ -14,72 +14,39 @@ A complete log of my web development skills, learning, resources, highlights, in
 |:--------------------------------:|:-----------------:|:-------------:|:-------------:|:----------------:|:--------------:|:---------------:|
 |**HTML5**                         | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |                 |
 |**CSS3**                          | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**JavaScript**                    | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**ES6**                           | ![done][done]     | ![done][done] |               |                  |                |                 |
-|**Website Building**              | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
-|**Responsive design**             | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
-|**Mobile first**                  | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
-|**Progressive Enhancement**       | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
-|**Css Grid & Flex-box**           | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
-|**GitHub**                        | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
-|**Bootstrap**                     | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**jQuery**                        | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**Publishing website**            | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**Git/Git bash**                  | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**Command line**                  | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**Markdown**                      | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |                 |
-|**Node.js**                       | ![done][done]     | ![done][done] |               |                  |                |                 |
-|**NPM**                           | ![done][done]     | ![done][done] |               |                  |                |                 |
-|**Open Source Contribution**      | ![done][done]     | ![done][done] |               |                  |                |                 |
-|**React**                         | ![done][done]     | ![done][done] |               |                  |                |                 |
-|**Angular 4**                     | ![done][done]     |               |               |                  |                |                 |
-|**Task runners Gulp/Grunt**       | ![done][done]     |               |               |                  |                |                 |
-|**NPM scripts**                   | ![done][done]     |               |               |                  |                |                 |
-|**AJAX**                          | ![done][done]     |               |               |                  |                |                 |
-|**Task runners Gulp/Grunt**       | ![done][done]     |               |               |                  |                |                 |
-|**NPM scripts**                   | ![done][done]     |               |               |                  |                |                 |
-|**AJAX**                          | ![done][done]     |               |               |                  |                |                 |
-|**HTML5**                         | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |                 |
-|**CSS3**                          | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |                 |
-|**JavaScript**                    | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
-|**ES6**                           | ![done][done]     | ![done][done] |               |                  |                |                 |
-|**Website Building**              | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
-
-----
-
-
-|               Skill              | 1<br>Introduction | 2<br>Basics   | 3<br>Good     | 4<br>Pretty Good | 5<br>Confident | 6<br>Awesome    |
-|:-------------------------------- |:-----------------:|:-------------:|:-------------:|:----------------:|:--------------:|:---------------:|
-|**HTML5**                         | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
-|**CSS3**                          | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |     
-    |
-|**CSS Grid & Flex-box**           | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
-|**Bootstrap**                     | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**JavaScript**                    | ![done][done]     | ![done][done] |               |                  |                |                 |
-|**jQuery**                        | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |                 |
-|**React**                         | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**Responsive design**             | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
-|**Website Build & Publish**       | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
-|**Search Engine Optimization**    | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**Wordpress & PHP                 |                   |               |               |                  |                |                 |
+|**CSS Grid & Flexbox**            | ![done][done]     | ![done][done] |               |                  |                |                 |
+|**Bootstrap**                     | ![done][done]     | ![done][done] |               |                  |                |                 |
+|**Javascript**                    | ![done][done]     | ![done][done] |               |                  |                |                 |
+|**jQuery**                        | ![done][done]     | ![done][done] |               |                  |                |                 |
+|**React**                         |                   |               |               |                  |                |                 |
+|**Responsive Design**             | ![done][done]     | ![done][done] |               |                  |                |                 |
+|**Website Build & Publish**       | ![done][done]     |               |               |                  |                |                 |
+|**Search Engine Optimization**    |                   |               |               |                  |                |                 |
+|**Wordpress & PHP**               |                   |               |               |                  |                |                 |
 |**Debugging**                     | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**Working with APIs**             | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
-|**Node & NPM**                    | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**Ruby**                          | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
-|**Ruby on Rails**                 | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |                 |
-|**Firebase**                      | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
+|**Working with APIs incl.REST**   | ![done][done]     | ![done][done] |               |                  |                |                 |
+|**Node & NPM**                    |                   |               |               |                  |                |                 |
+|**Ruby**                          | ![done][done]     | ![done][done] |               |                  |                |                 |
+|**Ruby on Rails**                 |                   |               |               |                  |                |                 |
+|**Python**                        |                   |               |               |                  |                |                 |
+|**Django**                        |                   |               |               |                  |                |                 |
+|**Firebase**                      |                   |               |               |                  |                |                 |
 |**AWS**                           |                   |               |               |                  |                |                 |
 |**Apache Hadoop**                 |                   |               |               |                  |                |                 |
-|**Python**                        |                   |               |               |                  |                |                 |
-|**Blockchain**                    |                   |               |               |                  |                |                 |
-|**Crypto Currencies**             |                   |               |               |                  |                |          .     |
-|**Git & GitHub**                  |                   |               |               |                  |                |                 |
-|**Project & Process Management**  |                   |               |               |                  |                |                 |
-|**Sharepoint & Confluence**       |                   |               |               |                  |                |                 |
-|**JIRA**                          |                   |               |               |                  |                |                 |
-|**CRM & Salesforce**              |                   |               |               |                  |                |                 |
-|**Microsoft Office & Visio**      |                   |               |               |                  |                |                 |
+|**Blockchain Concepts**           |                   |               |               |                  |                |                 |
+|**Crypto Currency Concepts**      |                   |               |               |                  |                |                 |
+|**Git & GitHub**                  | ![done][done]     |               |               |                  |                |                 |
+|**Sass**                          |                   |               |               |                  |                |                 |
+|**SQL & NoSQL**                   |                   |               |               |                  |                |                 |
+|**Cloud Concepts**                |                   |               |               |                  |                |                 |
+|**Project & Process Management**  | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |                 |
+|**Sharepoint & Confluence**       | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |                 |
+|**JIRA**                          | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |                 |
+|**CRM & Salesforce**              | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |                 |
+|**Microsoft Office & Visio**      | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |                 |
+
 ----
+
 
 ## Learning
 
