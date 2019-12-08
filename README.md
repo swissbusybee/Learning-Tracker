@@ -73,7 +73,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 | ![In Progress][In Progress] | TBD 2019   | [Information Security and Quality Assurance Certification]      | [freeCodeCamp]                              |
 | ![Soon][Soon]               | Dec 2019   | [Git and GitHub Version Control - The Complete Startup Guide]   | [Abhilash Nelson] - [Skillshare]     |
 | ![Soon][Soon]               | Dec 2019   | [WordPress Academy: Learn WordPress step by step]               | [Chris Dixon] - [Skillshare]     |
-| ![Soon][Soon]               | Jan 2020   | [Introduction to Hyperledger Blockchain Technologies]           | [edx]                                        |
+| ![Soon][Soon]               | Jan 2020   | [Introduction to Hyperledger Blockchain Technologies]           | [edx-The Linux Foundation]                                        |
 | ![Soon][Soon]               | Jan 2020   | [React Concepts]                                                | [TBD] - [TBD]                                |
 | ![Soon][Soon]               | 2020       | [Ruby]                                                          | [TBD]                                        |
 | ![Soon][Soon]               | 2020       | [Python]                                                        | [TBD]                            |    
