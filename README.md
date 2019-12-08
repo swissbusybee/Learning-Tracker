@@ -71,9 +71,9 @@ A complete log of my web development skills, learning, resources, highlights, in
 | ![Soon][Soon]               | Dec 2019   | [Git and GitHub Version Control - The Complete Startup Guide]   | [Abhilash Nelson] - [Skillshare]     |
 | ![Soon][Soon]               | Dec 2019   | [WordPress Academy: Learn WordPress step by step]               | [Chris Dixon] - [Skillshare]     |
 | ![Soon][Soon]               | Jan 2020   | [Introduction to Hyperledger Blockchain Technologies]           | [edx]                                        |
-| ![Soon][Soon]               | Jan 2020   | [Python]                                                        | [TBD] - [TBD]                                |
+| ![Soon][Soon]               | Jan 2020   | [React Concepts]                                                | [TBD] - [TBD]                                |
 | ![Soon][Soon]               | 2020       | [Ruby]                                                          | [TBD]                                        |
-| ![Soon][Soon]               | 2020       | [Other]                                                         | [TBD]                            |    
+| ![Soon][Soon]               | 2020       | [Python]                                                        | [TBD]                            |    
 
 [//]: # (Reference links to courses)
 
@@ -90,6 +90,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 [Git and GitHub Version Control - The Complete Startup Guide]: https://www.skillshare.com/classes/Git-and-GitHub-Version-Control-The-Complete-Startup-Guide/1196394219?via=search-layout-grid
 [WordPress Academy: Learn WordPress step by step]: https://www.skillshare.com/search?query=WordPress&enrollmentType=premium
 [Introduction to Hyperledger Blockchain Technologies]: https://www.edx.org/course/introduction-to-hyperledger-blockchain-technologie?utm_source=sailthru&utm_medium=email&utm_campaign=triggered_shareit
+[React Concepts]: https://reactjs.org/docs/hello-world.html 
 
 
 [//]: # (Reference links to tutors)
