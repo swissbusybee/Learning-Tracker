@@ -18,7 +18,9 @@ A complete log of my web development skills, learning, resources, highlights, in
 |**Bootstrap**                     | ![done][done]     | ![done][done] |               |                  |                |                 |
 |**Javascript**                    | ![done][done]     | ![done][done] |               |                  |                |                 |
 |**jQuery**                        | ![done][done]     | ![done][done] |               |                  |                |                 |
-|**React**                         |                   |               |               |                  |                |                 |
+|**React & Redux**                 |                   |               |               |                  |                |                 |
+|**ES6**                           | ![done][done]     |               |               |                  |                |                 |
+|**Sass**                          |                   |               |               |                  |                |                 |
 |**Responsive Design**             | ![done][done]     | ![done][done] |               |                  |                |                 |
 |**Website Build & Publish**       | ![done][done]     |               |               |                  |                |                 |
 |**Search Engine Optimization**    |                   |               |               |                  |                |                 |
@@ -36,6 +38,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 |**Blockchain Concepts**           |                   |               |               |                  |                |                 |
 |**Crypto Currency Concepts**      |                   |               |               |                  |                |                 |
 |**Git & GitHub**                  | ![done][done]     |               |               |                  |                |                 |
+|**ES6**                           | ![done][done]     |               |               |                  |                |                 |
 |**Sass**                          |                   |               |               |                  |                |                 |
 |**SQL & NoSQL**                   |                   |               |               |                  |                |                 |
 |**Cloud Concepts**                |                   |               |               |                  |                |                 |
