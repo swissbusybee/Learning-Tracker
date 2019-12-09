@@ -45,6 +45,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 |**Project & Process Management**  | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  | ![done][done]   |
 |**Sharepoint & Confluence**       | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  | ![done][done]   |
 |**JIRA**                          | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  | ![done][done]   |
+|**Slack**                         | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  | ![done][done]   |
 |**CRM & Salesforce**              | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  | ![done][done]   |
 |**Microsoft Office & Visio**      | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  | ![done][done]   |
 
