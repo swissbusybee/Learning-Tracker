@@ -42,7 +42,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 |**Sass**                          |                   |               |               |                  |                |                 |
 |**SQL & NoSQL**                   |                   |               |               |                  |                |                 |
 |**Cloud Concepts**                |                   |               |               |                  |                |                 |
-|**Project & Process Management**  | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  | ![done][done]   |
+|**Product & Project Management**  | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  | ![done][done]   |
 |**Sharepoint & Confluence**       | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  | ![done][done]   |
 |**JIRA**                          | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  | ![done][done]   |
 |**Slack**                         | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  | ![done][done]   |
