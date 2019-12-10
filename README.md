@@ -44,6 +44,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 |**Cloud Concepts**                |                   |               |               |                  |                |                 |
 |**Product & Project Management**  | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  | ![done][done]   |
 |**Sharepoint & Confluence**       | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  | ![done][done]   |
+|**Tableau**                       | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  | ![done][done]   |
 |**JIRA**                          | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  | ![done][done]   |
 |**Slack**                         | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  | ![done][done]   |
 |**CRM & Salesforce**              | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  | ![done][done]   |
@@ -72,9 +73,10 @@ A complete log of my web development skills, learning, resources, highlights, in
 | ![In Progress][In Progress] | TBD 2019   | [Data Visualization Certification]                              | [freeCodeCamp]                              |             
 | ![In Progress][In Progress] | TBD 2019   | [APIs and Microservices Certification]                          | [freeCodeCamp]                              |
 | ![In Progress][In Progress] | TBD 2019   | [Information Security and Quality Assurance Certification]      | [freeCodeCamp]                              |
-| ![Soon][Soon]               | Dec 2019   | [Git and GitHub Version Control - The Complete Startup Guide]   | [Abhilash Nelson] - [Skillshare]     |
-| ![Soon][Soon]               | Dec 2019   | [WordPress Academy: Learn WordPress step by step]               | [Chris Dixon] - [Skillshare]     |
-| ![Soon][Soon]               | Jan 2020   | [Introduction to Hyperledger Blockchain Technologies]           | [edx-The Linux Foundation]                                        |
+| ![Soon][Soon]               | Dec 2019   | [Git and GitHub Version Control - The Complete Startup Guide]   | [Abhilash Nelson] - [Skillshare]       |
+| ![Soon][Soon]               | Dec 2019   | [WordPress Academy: Learn WordPress step by step]               | [Chris Dixon] - [Skillshare]       |
+| ![Soon][Soon]               | Jan 2020   | [Introduction to Hyperledger Blockchain Technologies]           | [edx-The Linux Foundation]        |
+| ![Soon][Soon]               | Jan 2020   | [Full Stack Ruby on Rails]                                      | [The Odin Project]                          |
 | ![Soon][Soon]               | Jan 2020   | [React Concepts]                                                | [TBD] - [TBD]                                |
 | ![Soon][Soon]               | 2020       | [Ruby]                                                          | [TBD]                                        |
 | ![Soon][Soon]               | 2020       | [Python]                                                        | [TBD]                            |    
@@ -94,6 +96,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 [Git and GitHub Version Control - The Complete Startup Guide]: https://www.skillshare.com/classes/Git-and-GitHub-Version-Control-The-Complete-Startup-Guide/1196394219?via=search-layout-grid
 [WordPress Academy: Learn WordPress step by step]: https://www.skillshare.com/search?query=WordPress&enrollmentType=premium
 [Introduction to Hyperledger Blockchain Technologies]: https://www.edx.org/course/introduction-to-hyperledger-blockchain-technologie?utm_source=sailthru&utm_medium=email&utm_campaign=triggered_shareit
+[Full Stack Ruby on Rails]: https://www.theodinproject.com/tracks/1
 [React Concepts]: https://reactjs.org/docs/hello-world.html 
 
 
