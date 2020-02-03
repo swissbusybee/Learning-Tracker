@@ -2,7 +2,7 @@
 
 A complete log of my web development skills, learning, resources, highlights, interests, and everything to do with my learning. It's a way to keep track, organise, and share my learning.
 
-[For my full portfolio click here](https://) || [For my learning log click here](https://)
+[For my full portfolio click here](https://) || [For my GitHub Repository click here](https://github.com/swissbusybee?tab=repositories)
 
 ----
 
@@ -69,18 +69,13 @@ A complete log of my web development skills, learning, resources, highlights, in
 | ![Completed][Completed]     | Dec 2019   | [Web Development Fundamentals: HTML & CSS]                      | [Chris Dodd] - [Skillshare]                  |
 | ![Completed][Completed]     | Dec 2019   | [Web Development Fundamentals: Javascript]                      | [Chris Dodd] - [Skillshare]                  |
 | ![Completed][Completed]     | Dec 2019   | [Responsive Web Design Certification]                           | [freeCodeCamp]                              |
-| ![In Progress][In Progress] | Dec 2019   | [JavaScript Algorithms and Data Structures Certification]       | [freeCodeCamp]                              |
-| ![In Progress][In Progress] | TBD 2019   | [Front End Libraries Certification]                             | [freeCodeCamp]                              |
-| ![In Progress][In Progress] | TBD 2019   | [Data Visualization Certification]                              | [freeCodeCamp]                              |             
-| ![In Progress][In Progress] | TBD 2019   | [APIs and Microservices Certification]                          | [freeCodeCamp]                              |
-| ![In Progress][In Progress] | TBD 2019   | [Information Security and Quality Assurance Certification]      | [freeCodeCamp]                              |
-| ![Soon][Soon]               | Dec 2019   | [Git and GitHub Version Control - The Complete Startup Guide]   | [Abhilash Nelson] - [Skillshare]       |
-| ![Soon][Soon]               | Dec 2019   | [WordPress Academy: Learn WordPress step by step]               | [Chris Dixon] - [Skillshare]       |
-| ![Soon][Soon]               | Jan 2020   | [Introduction to Hyperledger Blockchain Technologies]           | [edx-The Linux Foundation]        |
-| ![Soon][Soon]               | Jan 2020   | [Full Stack Ruby on Rails]                                      | [The Odin Project]                          |
-| ![Soon][Soon]               | Jan 2020   | [React Concepts]                                                | [TBD] - [TBD]                                |
-| ![Soon][Soon]               | 2020       | [Ruby]                                                          | [TBD]                                        |
-| ![Soon][Soon]               | 2020       | [Python]                                                        | [TBD]                            |    
+| ![Completed][Completed]     | Dec 2019   | [JavaScript Algorithms and Data Structures Certification]       | [freeCodeCamp]                              |
+| ![Completed][Completed]     | Jan 2020   | [Introduction to Hyperledger Blockchain Technologies]           | [edx-The Linux Foundation]                  |
+| ![Completed][Completed]     | Feb 2020   | [Full Stack Ruby & Rails]                                       | [The Odin Project]                          |
+| ![Soon][Soon]               | Feb 2020   | [BlockChain]                                                    | [TBD] - [TBD]                              |
+| ![Soon][Soon]               | March 2020 | [Full Stack Developer Program]                                  | [LeWagon Bootcamp]                          |
+| ![Soon][Soon]               | May 2020   | [Python]                                                        | [TBD]                                      |    
+| ![Soon][Soon]               | 2020       | [React Concepts]                                                | [TBD] - [TBD]                              |
 
 [//]: # (Reference links to courses)
 
@@ -90,14 +85,8 @@ A complete log of my web development skills, learning, resources, highlights, in
 [Web Development Fundamentals: Javascript]: https://www.skillshare.com/profile/Christopher-Dodd/3311891
 [Responsive Web Design Certification]: https://www.freecodecamp.org/learn
 [JavaScript Algorithms and Data Structures Certification]: https://www.freecodecamp.org/learn
-[Front End Libraries Certification]: https://www.freecodecamp.org/learn
-[Data Visualization Certification]: https://www.freecodecamp.org/learn
-[APIs and Microservices Certification]: https://www.freecodecamp.org/learn
-[Information Security and Quality Assurance Certification]: https://www.freecodecamp.org/learn
-[Git and GitHub Version Control - The Complete Startup Guide]: https://www.skillshare.com/classes/Git-and-GitHub-Version-Control-The-Complete-Startup-Guide/1196394219?via=search-layout-grid
-[WordPress Academy: Learn WordPress step by step]: https://www.skillshare.com/search?query=WordPress&enrollmentType=premium
 [Introduction to Hyperledger Blockchain Technologies]: https://www.edx.org/course/introduction-to-hyperledger-blockchain-technologie?utm_source=sailthru&utm_medium=email&utm_campaign=triggered_shareit
-[Full Stack Ruby on Rails]: https://www.theodinproject.com/tracks/1
+[Full Stack Ruby & Rails]: https://www.theodinproject.com/tracks/1
 [React Concepts]: https://reactjs.org/docs/hello-world.html 
 
 
@@ -121,31 +110,6 @@ A complete log of my web development skills, learning, resources, highlights, in
 [Kent C Dodds]: https://egghead.io/instructors/kentcdodds
 [egghead.io]: https://egghead.io/
 
-### Paths
-
-| Paths with multiple resources                             |            Author            |
-|:----------------------------------------------------------|:----------------------------:|
-| [33 concepts every JavaScript developer should know]      | [Leonardo Maldonado]         |
-| [Best JavaScript books, tutorials, courses & videos]      | [ReactDOM]                   |
-| [Learn to code in 2018]                                   | [Andrei Neagoie]             |
-| [Get Job ready - JavaScript Edition]                      | [P1xt]                       |
-| [Full Stack Web Developer Path]                           | [Shovan Chatterjee]          |
-
-[//]: # (Reference links to paths)
-
-[33 concepts every JavaScript developer should know]: https://github.com/leonardomso/33-js-concepts
-[Best JavaScript books, tutorials, courses & videos]: https://reactdom.com/blog/javascript-books
-[Learn to code in 2018]: https://hackernoon.com/learn-to-code-in-2018-get-hired-and-have-fun-along-the-way-b338247eed6a
-[Get Job ready - JavaScript Edition]: https://github.com/P1xt/p1xt-guides/blob/master/job-ready-javascript-edition-2.0.md
-[Full Stack Web Developer Path]: https://github.com/shovanch/fullstack-web-developer-path
-
-[//]: # (Reference links to authors)
-[Leonardo Maldonado]: https://github.com/leonardomso
-[ReactDOM]: https://reactdom.com
-[Andrei Neagoie]: https://twitter.com/AndreiNeagoie
-[P1xt]: https://github.com/P1xt
-[Shovan Chatterjee]: https://github.com/shovanch
-
 ----
 
 ## Highlights
@@ -154,19 +118,15 @@ The most interesting of what I'm watching, reading, and doing:
 
 [**Click here for playlists and tweets. Articles, talks, tutorials, and more**](https://)
 
-And here is a chronological log of the highlights of my learning:
-
-[**My Learning Log**](https://)
-
 ----
 
 ## Interests
 
 I'm currently interested in/excited about:
 
-+ React
-+ JavaScript best practice
-+ Object Oriented Programming
++ Ruby & Rails 
++ Blockchain & Databases 
++ Looking forward to learning Python
 
 ----
 
@@ -174,25 +134,25 @@ I'm currently interested in/excited about:
 
 This is a list of basic objectives to meet on the road to mastering web development.
 
-* [ ] Open the computer’s terminal
+* [x] Open the computer’s terminal
 * [x] Use a text editor (bonus points if you have a specific reason for choosing it)
-* [ ] Use some keyboard shortcuts
-* [ ] Write tests for your code
+* [x] Use some keyboard shortcuts
+* [x] Write tests for your code
 * [ ] Help another web developer with something they’re having trouble with
 * [x] Attend an event about web development
-* [ ] Follow developers you admire on social media
+* [x] Follow developers you admire on social media
 * [x] Read a book about coding
 * [x] Open your browser console
 * [x] Get data from an API
 * [ ] Hide API keys from the public
 * [ ] Post a question on Stack Overflow
-* [ ] Push code to GitHub or GitLab or BitBucket
+* [x] Push code to GitHub or GitLab or BitBucket
 * [ ] Speak about something web development-related at an event
 * [ ] Complete a technical interview
 * [x] Participate in a hackathon
 * [x] Deploy a project
 * [ ] Ship your project to a store
-* [ ] Contribute to open source
+* [x] Contribute to open source
 * [ ] Get paid to code
 * [ ] When people ask what you do, respond saying you’re a developer :)
 
@@ -206,7 +166,7 @@ If you find this useful for your own needs you are welcome to fork a copy, custo
 
 ### Acknowledgments
 
-This has been forked from and inspired by [Syk Houdeib](https://twitter.com/Syknapse "@Syknapse") and his wonderful [Learning Tracker](https://github.com/Syknapse/My-Learning-Tracker-first-ten-months) project. And of course by [Alexander Kallaway's](https://twitter.com/ka11away) very motivational [#100DaysOfCode challenge](https://github.com/Kallaway/100-days-of-code) and the great and supportive community around it.
+This has been forked from and inspired by [Syk Houdeib](https://twitter.com/Syknapse "@Syknapse") and his wonderful [Learning Tracker](https://github.com/Syknapse/My-Learning-Tracker-first-ten-months) project. 
 
 ### License
 
