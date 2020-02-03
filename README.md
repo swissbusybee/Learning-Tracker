@@ -89,7 +89,6 @@ A complete log of my web development skills, learning, resources, highlights, in
 [Full Stack Ruby & Rails]: https://www.theodinproject.com/tracks/1
 [React Concepts]: https://reactjs.org/docs/hello-world.html 
 
-
 [//]: # (Reference links to tutors)
 
 [Kyle Simpson]: https://twitter.com/getify
@@ -109,6 +108,11 @@ A complete log of my web development skills, learning, resources, highlights, in
 [Scrimba]: https://scrimba.com/
 [Kent C Dodds]: https://egghead.io/instructors/kentcdodds
 [egghead.io]: https://egghead.io/
+[Chris Dodd]: https://www.skillshare.com/profile/Christopher-Dodd/3311891
+[Skillshare]: https://www.skillshare.com/profile/Christopher-Dodd/3311891
+[codecademy]:https://www.codecademy.com/learn/learn-ruby
+[edx-The Linux Foundation]:http://www.edx.org/course/introduction-to-hyperledger-blockchain-technologie
+[The Odin Project]: https://www.theodinproject.com/about
 
 ----
 
@@ -160,7 +164,7 @@ This is a list of basic objectives to meet on the road to mastering web developm
 
 If you find this useful for your own needs you are welcome to fork a copy, customise it or even give it a star.
 
-**You can [follow me on Twitter](https://twitter.com/Syknapse "@Syknapse") or [get in touch](https://syknapse.github.io/Syk-Houdeib/#contact "My contact section | Portfolio")**
+**You can [follow me on Twitter](https://twitter.com/SueRochaBB "@SueRochaBB") or [get in touch](https://BUSYROBOT.github.io/Sue-Rocha/#contact "My contact section | Portfolio")**
 
 ----
 
