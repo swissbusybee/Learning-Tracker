@@ -16,31 +16,32 @@ A complete log of my web development skills, learning, resources, highlights, in
 |**CSS3**                          | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**CSS Grid & Flexbox**            | ![done][done]     | ![done][done] |               |                  |                |                 |
 |**Bootstrap**                     | ![done][done]     | ![done][done] |               |                  |                |                 |
-|**Javascript**                    | ![done][done]     | ![done][done] |               |                  |                |                 |
+|**Javascript & ES6**              | ![done][done]     | ![done][done] |               |                  |                |                 |
 |**jQuery**                        | ![done][done]     | ![done][done] |               |                  |                |                 |
-|**React & Redux**                 |                   |               |               |                  |                |                 |
-|**ES6**                           | ![done][done]     |               |               |                  |                |                 |
-|**Sass**                          |                   |               |               |                  |                |                 |
+|**React & Redux**                 | ![done][done]     | ![done][done] |               |                  |                |                 |
+|**Webpack**                       | ![done][done]     | ![done][done] |               |                  |                |                 |
+|**Sass**                          | ![done][done]     | ![done][done] |               |                  |                |                 |
 |**Responsive Design**             | ![done][done]     | ![done][done] |               |                  |                |                 |
-|**Website Build & Publish**       | ![done][done]     |               |               |                  |                |                 |
+|**Website Build & Publish**       | ![done][done]     | ![done][done] |               |                  |                |                 |
 |**Search Engine Optimization**    |                   |               |               |                  |                |                 |
 |**Wordpress & PHP**               |                   |               |               |                  |                |                 |
 |**Debugging**                     | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**Working with APIs incl.REST**   | ![done][done]     | ![done][done] |               |                  |                |                 |
-|**Node & NPM**                    |                   |               |               |                  |                |                 |
+|**Working with APIs incl.REST**   | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
+|**Node & NPM**                    | ![done][done]     | ![done][done] |               |                  |                |                 |
 |**Ruby**                          | ![done][done]     | ![done][done] |               |                  |                |                 |
-|**Ruby on Rails**                 |                   |               |               |                  |                |                 |
+|**Ruby on Rails**                 | ![done][done]     | ![done][done] |               |                  |                |                 |
+|**Testing - RSPEC**               | ![done][done]     | ![done][done] |               |                  |                |                 |
 |**Python**                        |                   |               |               |                  |                |                 |
 |**Django**                        |                   |               |               |                  |                |                 |
 |**Firebase**                      |                   |               |               |                  |                |                 |
 |**AWS**                           |                   |               |               |                  |                |                 |
 |**Apache Hadoop**                 |                   |               |               |                  |                |                 |
-|**Blockchain Concepts**           |                   |               |               |                  |                |                 |
-|**Crypto Currency Concepts**      |                   |               |               |                  |                |                 |
-|**Git & GitHub**                  | ![done][done]     |               |               |                  |                |                 |
-|**ES6**                           | ![done][done]     |               |               |                  |                |                 |
-|**Sass**                          |                   |               |               |                  |                |                 |
-|**SQL & NoSQL**                   |                   |               |               |                  |                |                 |
+|**Blockchain Concepts**           | ![done][done]     | ![done][done] |               |                  |                |                 |
+|**Crypto Currency Concepts**      | ![done][done]     |               |               |                  |                |                 |
+|**Git & GitHub**                  | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
+|**CLI Command Line**              | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
+|**Go**                            |                   |               |               |                  |                |                 |
+|**SQL**                           | ![done][done]     | ![done][done] |               |                  |                |                 |
 |**Cloud Concepts**                |                   |               |               |                  |                |                 |
 |**Product & Project Management**  | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  | ![done][done]   |
 |**Sharepoint & Confluence**       | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  | ![done][done]   |
