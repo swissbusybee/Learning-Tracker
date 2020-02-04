@@ -120,7 +120,8 @@ A complete log of my web development skills, learning, resources, highlights, in
 
 The most interesting of what I'm watching, reading, and doing:
 
-[**Click here for playlists and tweets. Articles, talks, tutorials, and more**](https://)
++ Reading "Code" by Charles Petzold 
++ Prepping to start the Le Wagon Bootcamp in March 2020! 
 
 ----
 
