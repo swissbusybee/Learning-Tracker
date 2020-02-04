@@ -164,7 +164,7 @@ This is a list of basic objectives to meet on the road to mastering web developm
 
 If you find this useful for your own needs you are welcome to fork a copy, customise it or even give it a star.
 
-**You can [follow me on Twitter](https://twitter.com/SueRochaBB "@SueRochaBB") or [get in touch](https://BUSYROBOT.github.io/Sue-Rocha/#contact "My contact section | Portfolio")**
+**You can [follow me on Twitter](https://twitter.com/SueRochaBB "@SueRochaBB") or [get in touch](https://swissbusybee.github.io/#contact "My contact section | Portfolio")**
 
 ----
 
