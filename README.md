@@ -2,7 +2,7 @@
 
 A complete log of my web development skills, learning, resources, highlights, interests, and everything to do with my learning. It's a way to keep track, organise, and share my learning.
 
-[For my full portfolio click here](https://) || [For my GitHub Repository click here](https://github.com/swissbusybee?tab=repositories)
+[For my full portfolio click here](https://swissbusybee.github.io/) || [For my GitHub Repository click here](https://github.com/swissbusybee?tab=repositories)
 
 ----
 
