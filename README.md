@@ -18,7 +18,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 |**Bootstrap**                     | ![done][done]     | ![done][done] |               |                  |                |                 |
 |**Javascript & ES6**              | ![done][done]     | ![done][done] |               |                  |                |                 |
 |**jQuery**                        | ![done][done]     | ![done][done] |               |                  |                |                 |
-|**React & Redux**                 | ![done][done]     | ![done][done] |               |                  |                |                 |
+|**React**                         | ![done][done]     | ![done][done] |               |                  |                |                 |
 |**Webpack**                       | ![done][done]     | ![done][done] |               |                  |                |                 |
 |**Sass**                          | ![done][done]     | ![done][done] |               |                  |                |                 |
 |**Responsive Design**             | ![done][done]     | ![done][done] |               |                  |                |                 |
@@ -34,7 +34,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 |**Python**                        |                   |               |               |                  |                |                 |
 |**Django**                        |                   |               |               |                  |                |                 |
 |**Firebase**                      |                   |               |               |                  |                |                 |
-|**AWS**                           |                   |               |               |                  |                |                 |
+|**AWS**                           | ![done][done]     |               |               |                  |                |                 |
 |**Apache Hadoop**                 |                   |               |               |                  |                |                 |
 |**Blockchain Concepts**           | ![done][done]     | ![done][done] |               |                  |                |                 |
 |**Crypto Currency Concepts**      | ![done][done]     |               |               |                  |                |                 |
