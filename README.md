@@ -77,6 +77,8 @@ A complete log of my web development skills, learning, resources, highlights, in
 | ![Soon][Soon]               | May 2020   | [Python]                                                        | [TBD]                                        |    
 | ![Soon][Soon]               | 2020       | [React]                                                         | [TBD] - [TBD]                                |
 | ![Soon][Soon]               | 2020       | [Node.js]                                                       | [TBD] - [TBD]                                |
+----
+
 [//]: # (Reference links to courses)
 
 [Learn Ruby]: https://www.codecademy.com/catalog/language/ruby
@@ -88,6 +90,8 @@ A complete log of my web development skills, learning, resources, highlights, in
 [Introduction to Hyperledger Blockchain Technologies]: https://www.edx.org/course/introduction-to-hyperledger-blockchain-technologie?utm_source=sailthru&utm_medium=email&utm_campaign=triggered_shareit
 [Full Stack Ruby & Rails]: https://www.theodinproject.com/tracks/1
 [React Concepts]: https://reactjs.org/docs/hello-world.html 
+
+----
 
 [//]: # (Reference links to tutors)
 
