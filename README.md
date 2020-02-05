@@ -52,8 +52,6 @@ A complete log of my web development skills, learning, resources, highlights, in
 |**Microsoft Office & Visio**      | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  | ![done][done]   |
 
 ----
-
-
 ## Learning
 
 [//]: # (Status images)
@@ -77,7 +75,6 @@ A complete log of my web development skills, learning, resources, highlights, in
 | ![Soon][Soon]               | May 2020   | [Python]                                                        | [TBD]                                        |    
 | ![Soon][Soon]               | 2020       | [React]                                                         | [TBD] - [TBD]                                |
 | ![Soon][Soon]               | 2020       | [Node.js]                                                       | [TBD] - [TBD]                                |
-----
 
 [//]: # (Reference links to courses)
 
