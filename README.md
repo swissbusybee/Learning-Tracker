@@ -72,11 +72,11 @@ A complete log of my web development skills, learning, resources, highlights, in
 | ![Completed][Completed]     | Dec 2019   | [JavaScript Algorithms and Data Structures Certification]       | [freeCodeCamp]                              |
 | ![Completed][Completed]     | Jan 2020   | [Introduction to Hyperledger Blockchain Technologies]           | [edx-The Linux Foundation]                  |
 | ![Completed][Completed]     | Feb 2020   | [Full Stack Ruby & Rails]                                       | [The Odin Project]                          |
-| ![Soon][Soon]               | Feb 2020   | [BlockChain]                                                    | [TBD] - [TBD]                              |
+| ![Soon][Soon]               | Feb 2020   | [BlockChain - Ethereum & Solidity]                              | [Udemy]                                      |
 | ![Soon][Soon]               | March 2020 | [Full Stack Developer Program]                                  | [LeWagon Bootcamp]                          |
-| ![Soon][Soon]               | May 2020   | [Python]                                                        | [TBD]                                      |    
-| ![Soon][Soon]               | 2020       | [React Concepts]                                                | [TBD] - [TBD]                              |
-
+| ![Soon][Soon]               | May 2020   | [Python]                                                        | [TBD]                                        |    
+| ![Soon][Soon]               | 2020       | [React]                                                         | [TBD] - [TBD]                                |
+| ![Soon][Soon]               | 2020       | [Node.js]                                                       | [TBD] - [TBD]                                |
 [//]: # (Reference links to courses)
 
 [Learn Ruby]: https://www.codecademy.com/catalog/language/ruby
@@ -120,6 +120,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 
 The most interesting of what I'm watching, reading, and doing:
 
++ Starting the Blockchain Ethereum & Solidity course on Udemy
 + Reading "Code" by Charles Petzold 
 + Prepping to start the Le Wagon Bootcamp in March 2020! 
 
@@ -130,7 +131,8 @@ The most interesting of what I'm watching, reading, and doing:
 I'm currently interested in/excited about:
 
 + Ruby & Rails 
-+ Blockchain & Databases 
++ Blockchain 
++ SQL & Databases 
 + Looking forward to learning Python
 
 ----
