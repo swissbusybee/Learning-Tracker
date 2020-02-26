@@ -70,7 +70,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 | ![Completed][Completed]     | Dec 2019   | [JavaScript Algorithms and Data Structures Certification]       | [freeCodeCamp]                              |
 | ![Completed][Completed]     | Jan 2020   | [Introduction to Hyperledger Blockchain Technologies]           | [edx-The Linux Foundation]                  |
 | ![Completed][Completed]     | Feb 2020   | [Full Stack Ruby & Rails]                                       | [The Odin Project]                          |
-| ![Soon][Soon]               | Feb 2020   | [BlockChain - Ethereum & Solidity]                              | [Udemy]                                      |
+| ![Soon][Soon]               | Mar 2020   | [BlockChain - Ethereum & Solidity]                              | [Udemy]                                      |
 | ![Soon][Soon]               | March 2020 | [Full Stack Developer Program]                                  | [LeWagon Bootcamp]                          |
 | ![Soon][Soon]               | May 2020   | [Python]                                                        | [TBD]                                        |    
 | ![Soon][Soon]               | 2020       | [React]                                                         | [TBD] - [TBD]                                |
