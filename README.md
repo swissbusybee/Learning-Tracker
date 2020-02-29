@@ -70,7 +70,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 | ![Completed][Completed]     | Dec 2019   | [JavaScript Algorithms and Data Structures Certification]       | [freeCodeCamp]                              |
 | ![Completed][Completed]     | Jan 2020   | [Introduction to Hyperledger Blockchain Technologies]           | [edx-The Linux Foundation]                  |
 | ![Completed][Completed]     | Feb 2020   | [Full Stack Ruby & Rails]                                       | [The Odin Project]                          |
-| ![Soon][Soon]               | Mar 2020   | [BlockChain - Ethereum & Solidity]                              | [Udemy]                                      |
+| ![Soon][Soon]               | Feb 2020   | [BlockChain Fundamentals]                                       | [PluralSight]                                      |
 | ![Soon][Soon]               | March 2020 | [Full Stack Developer Program]                                  | [LeWagon Bootcamp]                          |
 | ![Soon][Soon]               | May 2020   | [Python]                                                        | [TBD]                                        |    
 | ![Soon][Soon]               | 2020       | [React]                                                         | [TBD] - [TBD]                                |
@@ -114,6 +114,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 [codecademy]:https://www.codecademy.com/learn/learn-ruby
 [edx-The Linux Foundation]:http://www.edx.org/course/introduction-to-hyperledger-blockchain-technologie
 [The Odin Project]: https://www.theodinproject.com/about
+[PluralSight]: https://www.pluralsight.com/courses/blockchain-fundamentals?clickid=35n3gI1NUxyOUWRwUx0Mo3EUUknXz-ydA3LYxM0&irgwc=1&mpid=1193463&utm_source=impactradius&utm_medium=digital_affiliate&utm_campaign=1193463&aid=7010a000001xAKZAA2#
 
 ----
 
@@ -121,7 +122,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 
 The most interesting of what I'm watching, reading, and doing:
 
-+ Starting the Blockchain Ethereum & Solidity course on Udemy
++ Finishing the Blockchain fundamentals course
 + Reading "Code" by Charles Petzold 
 + Prepping to start the Le Wagon Bootcamp in March 2020! 
 
@@ -134,8 +135,9 @@ I'm currently interested in/excited about:
 + Ruby & Rails 
 + Blockchain 
 + SQL & Databases 
-+ Looking forward to learning Python
 + Cyber Security
++ Automation
++ Looking forward to learning Python
 
 ----
 
