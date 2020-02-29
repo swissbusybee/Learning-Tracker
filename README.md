@@ -70,7 +70,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 | ![Completed][Completed]     | Dec 2019   | [JavaScript Algorithms and Data Structures Certification]       | [freeCodeCamp]                              |
 | ![Completed][Completed]     | Jan 2020   | [Introduction to Hyperledger Blockchain Technologies]           | [edx-The Linux Foundation]                  |
 | ![Completed][Completed]     | Feb 2020   | [Full Stack Ruby & Rails]                                       | [The Odin Project]                          |
-| ![Soon][Soon]               | Feb 2020   | [BlockChain Fundamentals]                                       | [PluralSight]                                      |
+| ![Completed][Completed]     | Feb 2020   | [BlockChain Fundamentals]                                       | [PluralSight]                                |
 | ![Soon][Soon]               | March 2020 | [Full Stack Developer Program]                                  | [LeWagon Bootcamp]                          |
 | ![Soon][Soon]               | May 2020   | [Python]                                                        | [TBD]                                        |    
 | ![Soon][Soon]               | 2020       | [React]                                                         | [TBD] - [TBD]                                |
@@ -87,6 +87,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 [Introduction to Hyperledger Blockchain Technologies]: https://www.edx.org/course/introduction-to-hyperledger-blockchain-technologie?utm_source=sailthru&utm_medium=email&utm_campaign=triggered_shareit
 [Full Stack Ruby & Rails]: https://www.theodinproject.com/tracks/1
 [React Concepts]: https://reactjs.org/docs/hello-world.html 
+[BlockChain Fundamentals]:https://www.pluralsight.com/courses/blockchain-fundamentals?clickid=35n3gI1NUxyOUWRwUx0Mo3EUUknXz-ydA3LYxM0&irgwc=1&mpid=1193463&utm_source=impactradius&utm_medium=digital_affiliate&utm_campaign=1193463&aid=7010a000001xAKZAA2#
 
 ----
 
