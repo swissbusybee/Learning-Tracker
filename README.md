@@ -42,7 +42,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 |**CLI Command Line**              | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**Go**                            |                   |               |               |                  |                |                 |
 |**SQL**                           | ![done][done]     | ![done][done] |               |                  |                |                 |
-|**Cloud Concepts**                | ![done][done]     | [done][done]  |               |                  |                |                 |
+|**Cloud Concepts**                | ![done][done]     | ![done][done] |               |                  |                |                 |
 |**Product & Project Management**  | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  | ![done][done]   |
 |**Sharepoint & Confluence**       | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  | ![done][done]   |
 |**Tableau**                       | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  | ![done][done]   |
