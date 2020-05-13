@@ -19,7 +19,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 |**jQuery**                        | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**React**                         | ![done][done]     | ![done][done] |               |                  |                |                 |
 |**Webpack**                       | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**Sass**                          | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
+|**TypeScript**                    | ![done][done]     | ![done][done] |               |                  |                |                 |
 |**Responsive Design**             | ![done][done]     | ![done][done] |               |                  |                |                 |
 |**Website Build & Publish**       | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**Search Engine Optimization**    | ![done][done]     |               |               |                  |                |                 |
@@ -69,10 +69,11 @@ A complete log of my web development skills, learning, resources, highlights, in
 | ![Completed][Completed]     | Jan 2020   | [Introduction to Hyperledger Blockchain Technologies]           | [edx-The Linux Foundation]                  |
 | ![Completed][Completed]     | Feb 2020   | [Full Stack Ruby & Rails]                                       | [The Odin Project]                          |
 | ![Completed][Completed]     | Feb 2020   | [BlockChain Fundamentals]                                       | [PluralSight]                                |
-| ![Soon][Soon]               | March 2020 | [Full Stack Developer Program]                                  | [LeWagon Bootcamp]                          |
-| ![Soon][Soon]               | May 2020   | [Python]                                                        | [TBD]                                        |    
-| ![Soon][Soon]               | 2020       | [React]                                                         | [TBD] - [TBD]                                |
+| ![Completed][Completed]     | March 2020 | [Full Stack Developer Program]                                  | [LeWagon Bootcamp]                          |
+| ![Soon][Soon]               | May 2020   | [Typescript]                                                    | [TBD]                                        |    
+| ![Soon][Soon]               | May 2020   | [React]                                                         | [TBD] - [TBD]                                |
 | ![Soon][Soon]               | 2020       | [Node.js]                                                       | [TBD] - [TBD]                                |
+| ![Soon][Soon]               | 2020       | [Data Visualization]                                            | [TBD] - [TBD]                                |
 
 [//]: # (Reference links to courses)
 
@@ -121,9 +122,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 
 The most interesting of what I'm watching, reading, and doing:
 
-+ Finishing the Blockchain fundamentals course
-+ Reading "Code" by Charles Petzold 
-+ Prepping to start the Le Wagon Bootcamp in March 2020! 
++ Learning React, Typescript and Data Visualization
 
 ----
 
@@ -131,12 +130,7 @@ The most interesting of what I'm watching, reading, and doing:
 
 I'm currently interested in/excited about:
 
-+ Ruby & Rails 
-+ Blockchain 
-+ SQL & Databases 
-+ Cyber Security
-+ Automation
-+ Looking forward to learning Python
++ Looking forward to starting my internship
 
 ----
 
@@ -148,23 +142,23 @@ This is a list of basic objectives to meet on the road to mastering web developm
 * [x] Use a text editor (bonus points if you have a specific reason for choosing it)
 * [x] Use some keyboard shortcuts
 * [x] Write tests for your code
-* [ ] Help another web developer with something they’re having trouble with
+* [x] Help another web developer with something they’re having trouble with
 * [x] Attend an event about web development
 * [x] Follow developers you admire on social media
 * [x] Read a book about coding
 * [x] Open your browser console
 * [x] Get data from an API
-* [ ] Hide API keys from the public
-* [ ] Post a question on Stack Overflow
+* [x] Hide API keys from the public
+* [x] Post a question on Stack Overflow
 * [x] Push code to GitHub or GitLab or BitBucket
-* [ ] Speak about something web development-related at an event
+* [x] Speak about something web development-related at an event
 * [ ] Complete a technical interview
 * [x] Participate in a hackathon
 * [x] Deploy a project
 * [ ] Ship your project to a store
 * [x] Contribute to open source
 * [ ] Get paid to code
-* [ ] When people ask what you do, respond saying you’re a developer :)
+* [x] When people ask what you do, respond saying you’re a developer :)
 
 ----
 
