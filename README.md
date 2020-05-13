@@ -13,24 +13,22 @@ A complete log of my web development skills, learning, resources, highlights, in
 |               Skill              | 1<br>Introduction | 2<br>Basics   | 3<br>Good     | 4<br>Pretty Good | 5<br>Confident | 6<br>Awesome    |
 |:--------------------------------:|:-----------------:|:-------------:|:-------------:|:----------------:|:--------------:|:---------------:|
 |**HTML5**                         | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |                 |
-|**CSS3**                          | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**CSS Grid & Flexbox**            | ![done][done]     | ![done][done] |               |                  |                |                 |
-|**Bootstrap**                     | ![done][done]     | ![done][done] |               |                  |                |                 |
-|**Javascript & ES6**              | ![done][done]     | ![done][done] |               |                  |                |                 |
-|**jQuery**                        | ![done][done]     | ![done][done] |               |                  |                |                 |
+|**CSS**                           | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
+|**Bootstrap**                     | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
+|**Javascript & ES6**              | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
+|**jQuery**                        | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**React**                         | ![done][done]     | ![done][done] |               |                  |                |                 |
-|**Webpack**                       | ![done][done]     | ![done][done] |               |                  |                |                 |
-|**Sass**                          | ![done][done]     | ![done][done] |               |                  |                |                 |
+|**Webpack**                       | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
+|**Sass**                          | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**Responsive Design**             | ![done][done]     | ![done][done] |               |                  |                |                 |
-|**Website Build & Publish**       | ![done][done]     | ![done][done] |               |                  |                |                 |
-|**Search Engine Optimization**    |                   |               |               |                  |                |                 |
-|**Wordpress & PHP**               |                   |               |               |                  |                |                 |
+|**Website Build & Publish**       | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
+|**Search Engine Optimization**    | ![done][done]     |               |               |                  |                |                 |
 |**Debugging**                     | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**Working with APIs incl.REST**   | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**Node & NPM**                    | ![done][done]     | ![done][done] |               |                  |                |                 |
-|**Ruby**                          | ![done][done]     | ![done][done] |               |                  |                |                 |
-|**Ruby on Rails**                 | ![done][done]     | ![done][done] |               |                  |                |                 |
-|**Testing - RSPEC**               | ![done][done]     | ![done][done] |               |                  |                |                 |
+|**Node & NPM**                    | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
+|**Ruby**                          | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
+|**Ruby on Rails**                 | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
+|**Testing - RSPEC**               | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**Python**                        |                   |               |               |                  |                |                 |
 |**Django**                        |                   |               |               |                  |                |                 |
 |**Firebase**                      |                   |               |               |                  |                |                 |
@@ -38,8 +36,8 @@ A complete log of my web development skills, learning, resources, highlights, in
 |**Apache Hadoop**                 |                   |               |               |                  |                |                 |
 |**Blockchain Concepts**           | ![done][done]     | ![done][done] |               |                  |                |                 |
 |**Crypto Currency Concepts**      | ![done][done]     |               |               |                  |                |                 |
-|**Git & GitHub**                  | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**CLI Command Line**              | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
+|**Git & GitHub**                  | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
+|**CLI Command Line**              | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
 |**Go**                            |                   |               |               |                  |                |                 |
 |**SQL**                           | ![done][done]     | ![done][done] |               |                  |                |                 |
 |**Cloud Concepts**                | ![done][done]     | ![done][done] |               |                  |                |                 |
