@@ -13,8 +13,8 @@ A complete log of my web development skills, learning, resources, highlights, in
 |               Skill              | 1<br>Introduction | 2<br>Basics   | 3<br>Good     | 4<br>Pretty Good | 5<br>Confident | 6<br>Awesome    |
 |:--------------------------------:|:-----------------:|:-------------:|:-------------:|:----------------:|:--------------:|:---------------:|
 |**HTML5**                         | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |                 |
-|**CSS**                           | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
-|**Bootstrap**                     | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
+|**CSS**                           | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |                 |
+|**Bootstrap**                     | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |                 |
 |**Javascript**                    | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**D3**                            | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**React**                         | ![done][done]     | ![done][done] |               |                  |                |                 |
@@ -33,7 +33,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 |**Django**                        | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**Firebase**                      |                   |               |               |                  |                |                 |
 |**AWS**                           | ![done][done]     |               |               |                  |                |                 |
-|**Agile & Kanban**                | ![done][done]     | ![done][done] |  ![done][done]|                  |                |                 |
+|**Agile & Kanban**                | ![done][done]     | ![done][done] |  ![done][done]| ![done][done]    |                |                 |
 |**Blockchain Concepts**           | ![done][done]     | ![done][done] |               |                  |                |                 |
 |**Crypto Currency Concepts**      | ![done][done]     |               |               |                  |                |                 |
 |**Git & GitHub**                  | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
