@@ -74,6 +74,9 @@ A complete log of my web development skills, learning, resources, highlights, in
 | ![Soon][Soon]               | Sept 2020  | [React]                                                         | [TBD] - [TBD]                                |
 | ![Soon][Soon]               | 2020       | [Node.js]                                                       | [TBD] - [TBD]                                |
 | ![Soon][Soon]               | 2020       | [D3.js & Data Visualization]                                    | [TBD] - [TBD] 
+| ![Soon][Soon]               | Sept 2020  | [React]                                                         | [TBD] - [TBD]                                |
+| ![Soon][Soon]               | 2020       | [Node.js]                                                       | [TBD] - [TBD]                                |
+| ![Soon][Soon]               | 2020       | [D3.js & Data Visualization]                                    | [TBD] - [TBD] 
 |
 | ![Soon][Soon]               | 2020       | [Design Patterns in React]                                      | [TBD] - [TBD] 
 
