@@ -71,13 +71,10 @@ A complete log of my web development skills, learning, resources, highlights, in
 | ![Completed][Completed]     | Feb 2020   | [BlockChain Fundamentals]                                       | [PluralSight]                                |
 | ![Completed][Completed]     | March 2020 | [Full Stack Developer Program]                                  | [LeWagon Bootcamp]                          |
 | ![Completed][Completed]     | August 2020| [Typescript]                                                    | [Frontend Masters]                                        |       
-| ![Completed][Completed]     | Feb 2020   | [D3.js & Data Visualization]                                    | [PluralSight]                                |
-| ![Completed][Completed]     | March 2020 | [Design Patterns]                                               | [LeWagon Bootcamp]                          |
-| ![Completed][Completed]     | August 2020| [React]                                                         | [Frontend Masters] 
+| ![Completed][Completed]     | 2020       | [D3.js & Data Visualization]                                    | [PluralSight]                                |
+| ![Completed][Completed]     | 2020       | [Design Patterns]                                               | [LeWagon Bootcamp]                          |
+| ![Completed][Completed]     | 2020       | [React]                                                         | [Frontend Masters] 
 |
-| ![Soon][Soon]               | 2020       | [D3.js & Data Visualization]                                    | [TBD] - [TBD] 
-|
-| ![Soon][Soon]               | 2020       | [Design Patterns]                                               | [TBD] - [TBD]    
 |
 
 ----
