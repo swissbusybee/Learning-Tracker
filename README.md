@@ -74,8 +74,6 @@ A complete log of my web development skills, learning, resources, highlights, in
 | ![Completed][Completed]     | 2020       | [D3.js & Data Visualization]                                    | [PluralSight]                                |
 | ![Completed][Completed]     | 2020       | [Design Patterns]                                               | [LeWagon Bootcamp]                          |
 | ![Completed][Completed]     | 2020       | [React]                                                         | [Frontend Masters] 
-|
-|
 
 ----
 [//]: # (Reference links to courses)
