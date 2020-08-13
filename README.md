@@ -76,12 +76,9 @@ A complete log of my web development skills, learning, resources, highlights, in
 | ![Soon][Soon]               | 2020       | [D3.js & Data Visualization]                                    | [TBD] - [TBD] 
 |
 | ![Soon][Soon]               | 2020       | [Design Patterns in React]                                      | [TBD] - [TBD] 
-|
-| ![Soon][Soon]               | 2020       | [D3.js & Data Visualization]                                    | [TBD] - [TBD] 
-|
-| ![Soon][Soon]               | 2020       | [Design Patterns in React]                                      | [TBD] - [TBD] 
-[//]: # (Reference links to courses)
 
+----
+[//]: # (Reference links to courses)
 [Learn Ruby]: https://www.codecademy.com/catalog/language/ruby
 [Understanding Web Development: A Beginners Guide to the Web]: https://www.skillshare.com/profile/Christopher-Dodd/3311891
 [Web Development Fundamentals: HTML & CSS]: https://www.skillshare.com/profile/Christopher-Dodd/3311891
