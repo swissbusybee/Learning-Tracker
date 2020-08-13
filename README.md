@@ -70,7 +70,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 | ![Completed][Completed]     | Feb 2020   | [Full Stack Ruby & Rails]                                       | [The Odin Project]                          |
 | ![Completed][Completed]     | Feb 2020   | [BlockChain Fundamentals]                                       | [PluralSight]                                |
 | ![Completed][Completed]     | March 2020 | [Full Stack Developer Program]                                  | [LeWagon Bootcamp]                          |
-| ![Completed][Completed]     | August 2020| [Typescript]                                                    | [TBD]                                        |    
+| ![Completed][Completed]     | August 2020| [Typescript]                                                    | [Frontend Masters]                                        |    
 | ![Soon][Soon]               | Sept 2020  | [React]                                                         | [TBD] - [TBD]                                |
 | ![Soon][Soon]               | 2020       | [Node.js]                                                       | [TBD] - [TBD]                                |
 | ![Soon][Soon]               | 2020       | [D3.js & Data Visualization]                                    | [TBD] - [TBD] 
@@ -91,6 +91,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 [React Concepts]: https://reactjs.org/docs/hello-world.html 
 [BlockChain Fundamentals]:https://www.pluralsight.com/courses/blockchain-fundamentals?clickid=35n3gI1NUxyOUWRwUx0Mo3EUUknXz-ydA3LYxM0&irgwc=1&mpid=1193463&utm_source=impactradius&utm_medium=digital_affiliate&utm_campaign=1193463&aid=7010a000001xAKZAA2#
 [Full Stack Developer Program]:https://www.lewagon.com/lausanne/web-development-course/full-time
+[Typescript]: https://frontendmasters.com
 
 ----
 
@@ -120,6 +121,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 [The Odin Project]: https://www.theodinproject.com/about
 [PluralSight]: https://www.pluralsight.com/courses/blockchain-fundamentals?clickid=35n3gI1NUxyOUWRwUx0Mo3EUUknXz-ydA3LYxM0&irgwc=1&mpid=1193463&utm_source=impactradius&utm_medium=digital_affiliate&utm_campaign=1193463&aid=7010a000001xAKZAA2#
 [LeWagon Bootcamp]: https://www.lewagon.com/lausanne/web-development-course/full-time
+[Frontend Masters]:https://frontendmasters.com
 
 ----
 
