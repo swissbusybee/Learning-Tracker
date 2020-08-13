@@ -33,7 +33,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 |**Django**                        | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**Firebase**                      |                   |               |               |                  |                |                 |
 |**AWS**                           | ![done][done]     |               |               |                  |                |                 |
-|**Agile & Kanban Experience**     | ![done][done]     | ![done][done] |  ![done][done]|                  |                |                 |
+|**Agile & Kanban**                | ![done][done]     | ![done][done] |  ![done][done]|                  |                |                 |
 |**Blockchain Concepts**           | ![done][done]     | ![done][done] |               |                  |                |                 |
 |**Crypto Currency Concepts**      | ![done][done]     |               |               |                  |                |                 |
 |**Git & GitHub**                  | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
