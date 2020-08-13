@@ -15,8 +15,8 @@ A complete log of my web development skills, learning, resources, highlights, in
 |**HTML5**                         | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |                 |
 |**CSS**                           | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
 |**Bootstrap**                     | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**Javascript & ES6**              | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**jQuery**                        | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
+|**Javascript**                    | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
+|**D3**                            | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**React**                         | ![done][done]     | ![done][done] |               |                  |                |                 |
 |**Webpack**                       | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**TypeScript**                    | ![done][done]     | ![done][done] |               |                  |                |                 |
