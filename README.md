@@ -84,7 +84,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 | ![Soon][Soon]               | 2020       | [D3.js & Data Visualization]                                    | [TBD] - [TBD] 
 |
 | ![Soon][Soon]               | 2020       | [Design Patterns]                                               | [TBD] - [TBD]    
-------:|
+|
 
 ----
 [//]: # (Reference links to courses)
