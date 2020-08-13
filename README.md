@@ -29,16 +29,16 @@ A complete log of my web development skills, learning, resources, highlights, in
 |**Ruby**                          | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
 |**Ruby on Rails**                 | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
 |**Testing - RSPEC**               | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**Python**                        |                   |               |               |                  |                |                 |
-|**Django**                        |                   |               |               |                  |                |                 |
+|**Python**                        | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
+|**Django**                        | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**Firebase**                      |                   |               |               |                  |                |                 |
 |**AWS**                           | ![done][done]     |               |               |                  |                |                 |
-|**Apache Hadoop**                 |                   |               |               |                  |                |                 |
+|**Agile & Kanban Experience**     | ![done][done]     | ![done][done] |  ![done][done]|                  |                |                 |
 |**Blockchain Concepts**           | ![done][done]     | ![done][done] |               |                  |                |                 |
 |**Crypto Currency Concepts**      | ![done][done]     |               |               |                  |                |                 |
 |**Git & GitHub**                  | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
 |**CLI Command Line**              | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
-|**Go**                            |                   |               |               |                  |                |                 |
+|**Bitbucket & Atlassian Tools**   | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**SQL**                           | ![done][done]     | ![done][done] |               |                  |                |                 |
 |**Cloud Concepts**                | ![done][done]     | ![done][done] |               |                  |                |                 |
 |**Product & Project Management**  | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  | ![done][done]   |
@@ -70,10 +70,13 @@ A complete log of my web development skills, learning, resources, highlights, in
 | ![Completed][Completed]     | Feb 2020   | [Full Stack Ruby & Rails]                                       | [The Odin Project]                          |
 | ![Completed][Completed]     | Feb 2020   | [BlockChain Fundamentals]                                       | [PluralSight]                                |
 | ![Completed][Completed]     | March 2020 | [Full Stack Developer Program]                                  | [LeWagon Bootcamp]                          |
-| ![Soon][Soon]               | May 2020   | [Typescript]                                                    | [TBD]                                        |    
-| ![Soon][Soon]               | May 2020   | [React]                                                         | [TBD] - [TBD]                                |
+| ![Completed][Completed]     | August 2020| [Typescript]                                                    | [TBD]                                        |    
+| ![Soon][Soon]               | Sept 2020  | [React]                                                         | [TBD] - [TBD]                                |
 | ![Soon][Soon]               | 2020       | [Node.js]                                                       | [TBD] - [TBD]                                |
-| ![Soon][Soon]               | 2020       | [Data Visualization]                                            | [TBD] - [TBD]                                |
+| ![Soon][Soon]               | 2020       | [D3.js & Data Visualization]                                    | [TBD] - [TBD] 
+|
+| ![Soon][Soon]               | 2020       | [Design Patterns in React]                                      | [TBD] - [TBD] 
+|
 
 [//]: # (Reference links to courses)
 
@@ -124,7 +127,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 
 The most interesting of what I'm watching, reading, and doing:
 
-+ Learning React, Typescript and Data Visualization
++ Learning React, D3.js Data Visualization and Design Patterns in React
 
 ----
 
@@ -132,7 +135,7 @@ The most interesting of what I'm watching, reading, and doing:
 
 I'm currently interested in/excited about:
 
-+ Looking forward to starting my internship
++ Building cool software that is helpful for others
 
 ----
 
@@ -159,7 +162,7 @@ This is a list of basic objectives to meet on the road to mastering web developm
 * [x] Deploy a project
 * [ ] Ship your project to a store
 * [x] Contribute to open source
-* [ ] Get paid to code
+* [x] Get paid to code
 * [x] When people ask what you do, respond saying you’re a developer :)
 
 ----
