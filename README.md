@@ -68,14 +68,15 @@ A complete log of my web development skills, learning, resources, highlights, in
 | ![Completed][Completed]     | Dec 2019   | [JavaScript Algorithms and Data Structures Certification]       | [freeCodeCamp]                              |
 | ![Completed][Completed]     | Jan 2020   | [Introduction to Hyperledger Blockchain Technologies]           | [edx-The Linux Foundation]                  |
 | ![Completed][Completed]     | Feb 2020   | [Full Stack Ruby & Rails]                                       | [The Odin Project]                          |
-| ![Completed][Completed]     | Feb 2020   | [BlockChain Fundamentals]                                       | [PluralSight]                                |
+| ![Completed][Completed]     | Feb 2020   | [BlockChain Fundamentals]                                       | [PluralSight]                              |
 | ![Completed][Completed]     | March 2020 | [Full Stack Developer Program]                                  | [LeWagon Bootcamp]                          |
-| ![Completed][Completed]     | August 2020| [Typescript]                                                    | [Frontend Masters]                                        |       
-| ![Completed][Completed]     | 2020       | [D3.js & Data Visualization]                                    | [PluralSight]                                |
+| ![Completed][Completed]     | August 2020| [Typescript]                                                    | [Frontend Masters]                          |       
+| ![Completed][Completed]     | 2020       | [D3.js & Data Visualization]                                    | [PluralSight]                              |
 | ![Completed][Completed]     | 2020       | [Design Patterns]                                               | [LeWagon Bootcamp]                          |
 | ![Completed][Completed]     | 2020       | [React]                                                         | [Frontend Masters] 
 
 ----
+
 [//]: # (Reference links to courses)
 [Learn Ruby]: https://www.codecademy.com/catalog/language/ruby
 [Understanding Web Development: A Beginners Guide to the Web]: https://www.skillshare.com/profile/Christopher-Dodd/3311891
