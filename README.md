@@ -14,31 +14,31 @@ A complete log of my web development skills, learning, resources, highlights, in
 |:--------------------------------:|:-----------------:|:-------------:|:-------------:|:----------------:|:--------------:|:---------------:|
 |**HTML5**                         | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |                 |
 |**CSS**                           | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |                 |
-|**Bootstrap**                     | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |                 |
-|**Javascript**                    | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**D3**                            | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**React**                         | ![done][done]     | ![done][done] |               |                  |                |                 |
+|**Figma**                         | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |                 |
+|**Javascript**                    | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
+|**D3**                            | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
+|**React**                         | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
 |**Webpack**                       | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**TypeScript**                    | ![done][done]     | ![done][done] |               |                  |                |                 |
-|**Responsive Design**             | ![done][done]     | ![done][done] |               |                  |                |                 |
-|**Website Build & Publish**       | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
+|**TypeScript**                    | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
+|**Responsive Design**             | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |                 |
+|**Website Build & Publish**       | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |                 |
 |**Search Engine Optimization**    | ![done][done]     |               |               |                  |                |                 |
-|**Debugging**                     | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**Working with APIs incl.REST**   | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**Node & NPM**                    | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
+|**Debugging**                     | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
+|**Working with APIs incl.REST**   | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |                 |
+|**Node & NPM**                    | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |                 |
 |**Ruby**                          | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
 |**Ruby on Rails**                 | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
-|**Testing - RSPEC**               | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
+|**Testing Cypress, Jest, Enzyme** | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
 |**Python**                        | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**Django**                        | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**Firebase**                      |                   |               |               |                  |                |                 |
 |**AWS**                           | ![done][done]     |               |               |                  |                |                 |
-|**Agile & Kanban**                | ![done][done]     | ![done][done] |  ![done][done]| ![done][done]    |                |                 |
+|**Agile & Kanban & DevOps**       | ![done][done]     | ![done][done] |  ![done][done]| ![done][done]    |                |                 |
 |**Blockchain Concepts**           | ![done][done]     | ![done][done] |               |                  |                |                 |
 |**Crypto Currency Concepts**      | ![done][done]     |               |               |                  |                |                 |
-|**Git & GitHub**                  | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
-|**CLI Command Line**              | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
-|**Bitbucket & Atlassian Tools**   | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
+|**Git & GitHub**                  | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |                 |
+|**CLI Command Line**              | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |                 |
+|**Bitbucket & Atlassian Tools**   | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |                 |
 |**SQL**                           | ![done][done]     | ![done][done] |               |                  |                |                 |
 |**Cloud Concepts**                | ![done][done]     | ![done][done] |               |                  |                |                 |
 |**Product & Project Management**  | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  | ![done][done]   |
