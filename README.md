@@ -14,7 +14,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 |:--------------------------------:|:-----------------:|:-------------:|:-------------:|:----------------:|:--------------:|:---------------:|
 |**HTML5**                         | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |                 |
 |**CSS**                           | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |                 |
-|**Figma**                         | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |                 |
+|**Figma & Prototype Design**      | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |                 |
 |**Javascript**                    | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
 |**D3**                            | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
 |**React**                         | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
